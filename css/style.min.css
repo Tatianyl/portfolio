@@ -54,6 +54,7 @@
 a.content__link.dark {
     color: #666;
     border-bottom: 1px dotted #666;
+    font-weight: bold;
 }
 
 a.content__link.dark:hover {
