@@ -99,3 +99,9 @@ max-width: 6%;
 }
 
 }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .logo {
+        display: none;
+   }
+}
