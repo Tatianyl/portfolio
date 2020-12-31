@@ -5,9 +5,6 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- Tatiany Lukrafka portfolio website -->
-
-
   <url>
     <loc>https://tatianyl.github.io/portfolio/</loc>
     <lastmod>2020-12-31T16:50:00+00:00</lastmod>
